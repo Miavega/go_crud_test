@@ -1,1 +1,0 @@
-# go_crud_test
